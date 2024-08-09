@@ -15,17 +15,17 @@ How to Run
 Clone this repository to your local machine:
 
 bash
-Копировать код
+
 git clone https://github.com/yourusername/yourrepository.git
 Navigate to the project directory:
 
 bash
-Копировать код
+
 cd yourrepository
 Run the game:
 
 bash
-Копировать код
+
 python src/main.py
 
 How to Play
