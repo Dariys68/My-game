@@ -1,0 +1,18 @@
+my_game/
+│
+├── assets/
+│   └── images/
+│       ├── background.png
+│       ├── player.png
+│       ├── enemy.png
+│       ├── bonus.png
+│       └── goose/
+│           ├── goose1.png
+│           ├── goose2.png
+│           └── ...
+│
+├── src/
+│   └── main.py
+│
+├── .gitignore
+└── README.md
